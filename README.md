@@ -21,6 +21,8 @@
 
 
 Drop PassengerId and Name Columns : 
+
+
 <img width="620" alt="image" src="https://github.com/user-attachments/assets/56185c5e-2933-4bfd-a229-c1209fb6270f">
 
 
